@@ -1,1 +1,1 @@
-<?php system('ls -l'); ?>
+<?php file_get_contents('index.php'); ?>
